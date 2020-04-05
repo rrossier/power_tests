@@ -1,0 +1,18 @@
+---
+title: "README"
+author: "Romain Rossier"
+date: "27/03/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Specificity and Sensitivity of tests
+
+The idea is to quickly understand what being tested *positive* or *negative* actually mean.
+
+Based on [Confusion Matrix](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+
+Example: test's metrics for the [first FDA-approved test for Covid-19](https://twitter.com/zbinney_NFLinj/status/1245789672833417217?s=20)
